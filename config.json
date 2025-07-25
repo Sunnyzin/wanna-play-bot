@@ -1,0 +1,6 @@
+{
+  "wannaPlayRoleId": "ID_DO_CARGO_WANNA_PLAY",
+  "voiceCallRoleId": "ID_DO_CARGO_VOICE_CALL",
+  "channelId": "ID_DO_CANAL_ONDE_FUNCIONA",
+  "cooldownSeconds": 120
+}
